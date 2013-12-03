@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Program Files (x86)\ComponentSpace SAML v2.0 for .NET\Examples\SSO\HighLevelAPI\MVC\MvcExampleIdentityProvider\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Program Files (x86)\ComponentSpace SAML v2.0 for .NET\Examples\SSO\HighLevelAPI\MVC\MvcExampleIdentityProvider\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Program Files (x86)\ComponentSpace SAML v2.0 for .NET\Examples\SSO\HighLevelAPI\MVC\MvcExampleIdentityProvider\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
